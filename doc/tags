@@ -1,7 +1,0 @@
-gpack	gpack.txt	/*gpack*
-gpack.Spec	gpack.txt	/*gpack.Spec*
-gpack.config.pack_directory	gpack.txt	/*gpack.config.pack_directory*
-gpack.txt	gpack.txt	/*gpack.txt*
-vim.gpack	gpack.txt	/*vim.gpack*
-vim.gpack.Spec	gpack.txt	/*vim.gpack.Spec*
-vim.gpack.add()	gpack.txt	/*vim.gpack.add()*
