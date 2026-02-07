@@ -139,8 +139,8 @@ return {
         configurationPreference = "filesystemFirst",
         loglevel = "info",
         configuration = {
-          format = {},
-          lint = {}
+          format = vim.empty_dict(),
+          lint = vim.empty_dict()
         }
       }
     }
